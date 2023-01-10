@@ -90,11 +90,11 @@ section {
   
 /* Start of Hero Section Styling */
 .hero {
-    background-image:url(/Users/BlakeReece/Downloads/html-color-codes-color-tutorials-hero.jpeg)
+    background-image:url()
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;    
-}
+}  
 .hero h2 {
     font-style: normal;
     font-size: 30px;
